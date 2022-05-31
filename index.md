@@ -62,6 +62,13 @@ A multi-statement table-valued function is a function which returns a table of d
 ## Summary
 
 This article learns about when you would use a SQL Functions, and the differences between a Scalar, Inline and Multi-Statement Functions.
+### GitHub Links:
+Assignment07_UGunale.Sql Script and Assignment07_UGunale.PDF file : https://github.com/UGunale2/DBFoundations-Module07
+GitHub Webpage : https://github.com/UGunale2/DBFoundations-Module07/blob/main/index.md
+### Image link :
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
+
 
 
 
